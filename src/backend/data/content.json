@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Plju\u010dnica v doma\u010dem okolju",
+        "culprits": {
+            "S. pneumoniae": "60",
+            "H. influenzae": "5",
+            "M. catarrhalis": "4",
+            "M. pneumoniae": "5",
+            "C. pneumoniae": "5",
+            "S. aureus": "5",
+            "S. pyogenes": "2",
+            "K. pneumoniae": "1"
+        }
+    },
+    {
+        "name": "Plju\u010dnica v bolni\u0161ni\u0161\u010dnem okolju",
+        "culprits": {
+            "S. pneumoniae": "1",
+            "P. aureginosa": "60",
+            "H. influenzae": "5",
+            "M. catarrhalis": "4",
+            "M. pneumoniae": "5",
+            "C. pneumoniae": "5",
+            "S. aureus": "5",
+            "S. pyogenes": "2",
+            "K. pneumoniae": "30"
+        }
+    },
+    {
+        "name": "Prikrita bakteriemija",
+        "culprits": {
+            "S. pneumoniae": "?",
+            "N. meningitidis": "?",
+            "H. influenzae B": "?",
+            "E. coli": "?",
+            "Salmonella spp.": "?",
+            "S. aureus": "?"
+        }
+    }
+]
